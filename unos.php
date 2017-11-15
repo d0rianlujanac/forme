@@ -17,7 +17,7 @@
         Godine:<br>  
         <input type="text" name="godine"><br>
 
-        <input type="submit" value="Pošalji">
+        <input type="submit" value="Poššalji">
     </form>
 </body>
 
